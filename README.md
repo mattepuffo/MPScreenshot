@@ -8,4 +8,4 @@ Three possibilities are available:
 - Manual mode (choose size)
 - Manual mode (choose size with mouse)
 
-NetBeans project files are include.
+NetBeans project files are included.

@@ -1,11 +1,9 @@
 # MPScreenshot
-Java Screenshot
+Java Screenshots
 
-Simple program written in Java to take screenshots of the screen.
+Simple program written in Java, to run the screen screenshots.
 
-Three possibilities are available:
-- Auto mode (to screen)
-- Manual mode (choose size)
-- Manual mode (choose size with mouse)
-
-NetBeans project files are included.
+Three modes available:
+- Auto mode (the whole screen)
+- manual mode (by choosing the size and coordinates)
+- manual mode (choosing the size with the mouse)
